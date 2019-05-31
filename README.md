@@ -4,6 +4,7 @@
 
 ProductsProductPricesResourceRelationship module provides relationship between products (abstract and concrete) resources and product prices resources.
 
+**This module is not continued at this point.**
 
 ## Installation
 
